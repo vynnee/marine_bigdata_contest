@@ -1,4 +1,3 @@
-# marine_bigdata_contest
 ## 해양수산 빅데이터 분석 경진대회
 
 ### 01 주제
